@@ -3,6 +3,7 @@ This curated list of awesome advices for computer science PhD applicants consist
 
 **Application season can be stressful, but always remember to smile :-) - you are already awesome to have the courage to take this hard path!**
 
+## General Advice
 
 [CSRankings.org: Advice on Applying to Grad School in Computer Science](http://csrankings.org/advice.html) (In case you are new to a field and need to learn about the professors in that field, I highly recommend use [CSRankings.org](http://csrankings.org/) to quickly find professors working in your area of interest.)
 
