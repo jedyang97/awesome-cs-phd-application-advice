@@ -1,6 +1,8 @@
 # Awesome CS PhD application advice [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This curated list of awesome advice for computer science PhD applicants consists of blogs found on the internet, with a slightly biased emphasis on the AI/ML and NLP area. These articles greatly helped me when I was applying to Ph.D., I hope they can also help you.
 
+This page is cross-listed in [this blog](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/).
+
 <mark>**Application season can be stressful, but always remember to smile :-) - you are already awesome to have the courage to take this hard path!**</mark>
 
 ## General Advice
