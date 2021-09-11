@@ -23,6 +23,8 @@ This page is cross-listed in [this blog](https://jedyang.com/post/list-of-awesom
 
 - [Reflecting on CS Graduate Admissions](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html) ([David Andersen](http://www.cs.cmu.edu/~dga/), Professor at CMU, chair of admission committee for Fall 2015)
 
+- [A PhD is Not Enough: A Guide to Survival in Science](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf) (by [Peter J. Feibelman](https://scholar.google.com/citations?user=SBfRqnEAAAAJ); this book is also super useful for PhD candidates and new post-docs! For Chinese speakers: [a brife outline](http://blog.sciencenet.cn/blog-71964-237087.html))
+
 ## Statement of Purposes advice
 
 - [Some Suggestions on writing your statement of purpose](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
