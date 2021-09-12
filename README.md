@@ -25,7 +25,7 @@ This page is cross-listed in [this blog](https://jedyang.com/post/list-of-awesom
 
 - [A PhD is Not Enough: A Guide to Survival in Science](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf) (by [Peter J. Feibelman](https://scholar.google.com/citations?user=SBfRqnEAAAAJ); this book is also super useful for PhD candidates and new post-docs! For Chinese speakers: [a brife outline](http://blog.sciencenet.cn/blog-71964-237087.html))
 
-## Statement of Purposes advice
+## Statement of Purpose Advice
 
 - [Some Suggestions on writing your statement of purpose](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
 
