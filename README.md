@@ -9,7 +9,7 @@ This page is cross-listed in [this blog](https://jedyang.com/post/list-of-awesom
 
 - [CSRankings.org: Advice on Applying to Grad School in Computer Science](http://csrankings.org/advice.html) (In case you are new to a field and need to learn about the professors in that field, I highly recommend use [CSRankings.org](http://csrankings.org/) to quickly find professors working in your area of interest.)
 
-- [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) (by [Nelson Liu](https://cs.stanford.edu/~nfliu/), Ph.D. student at UW)
+- [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) (by various Ph.D. students)
 
 - [Undergrad to PhD, or not - advice for undergrads interested in research](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html) (by [John Hewitt](https://nlp.stanford.edu//~johnhew//), Ph.D. student at Stanford)
 
